@@ -1,0 +1,27 @@
+
+h1{
+  text-align: center;
+}
+.red{
+    color:red;
+    }
+.form-area
+{
+    background-color: #FAFAFA;
+	padding: 10px 40px 60px;
+	margin: 10px 0px 60px;
+	border: 1px solid GREY;
+	}
+  #description{
+    height: 120px;
+  }
+  .cards {
+    border: 1px solid grey;
+    background: #FAFAFA;
+    text-align: center;
+    margin: 10px;
+    padding: 4px;
+  }
+section {
+  width: 100%;
+}
